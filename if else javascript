@@ -1,0 +1,8 @@
+if (condition)
+  statement1
+
+// With an else clause
+if (condition)
+  statement1
+else
+  statement2
